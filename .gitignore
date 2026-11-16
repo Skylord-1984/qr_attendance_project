@@ -1,0 +1,20 @@
+# Python generated files
+__pycache__/
+*.py[cod]
+
+# Virtual Environment
+venv/
+.venv/
+
+# Django Database
+db.sqlite3
+
+# Environment variables
+.env
+
+# IDE settings
+.vscode/
+.idea/
+
+# Media uploads
+media/
